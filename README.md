@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning diploma in computer
 - 💞️ I’m looking to collaborate on hacking
-- 📫 How to reach me ig:itz_pruthvik_91
+- 📫 How to reach me ig:pruthvikkk_91
 
 <!---
 pruthvik91/pruthvik91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
