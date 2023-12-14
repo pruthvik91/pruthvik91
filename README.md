@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pruthvik91
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning diploma in computer
-- 💞️ I’m looking to collaborate on hacking
+- 🌱 I’m currently pursuing B.E. in computer
 - 📫 How to reach me ig:pruthvikkk_91
 
 <!---
